@@ -14,7 +14,7 @@
 **下载地址：**
 
 [阿里云]( https://www.aliyundrive.com/s/BRnbM5fejeG )
-[百度云]((https://pan.baidu.com/s/1FFc9AqPnGoE7Zu8Phgbe1g)
+[百度云](https://pan.baidu.com/s/1FFc9AqPnGoE7Zu8Phgbe1g )
 
 
 
