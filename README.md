@@ -1,4 +1,3 @@
-# 基于光线追踪的三维视觉空间量化分析工具
 ## 基本操作示例
 
 ​	视觉分析一般操作过程涉及环境模型构建、采样、视觉分析、分析结果展示四个阶段。研究开发的env_viewper主要负责“视觉分析”阶段，其他阶段可根据数据和操作需求选择事宜软件。唯一需要保持一致的是无论是使用点云（须转Mesh）、SketchUp、3DSMax还是Rhino等软件去创建三维环境，最终均要导入Blender去加载三维模型以便env_viewper进行分析。
@@ -14,7 +13,10 @@
 **下载地址：**
 
 [阿里云]( https://www.aliyundrive.com/s/BRnbM5fejeG )
+
 [百度云](https://pan.baidu.com/s/1FFc9AqPnGoE7Zu8Phgbe1g )
+
+
 
 
 
